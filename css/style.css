@@ -271,7 +271,7 @@ z-index: 10;
     height: 100vh;
     top: 0;
     left: 0;
-    background-color: rgba(95, 46, 13, 0.5);
+    background-color: #d9c3ab;
 }
 .title-line{
     width: 500px;
@@ -458,7 +458,7 @@ i{
 .why-us-sec{
     width: 100vw;
     height: 85vh;
-    background-color: rgba(95, 46, 13, 0.5);
+    background-color: #d9c3ab;
 }
 .wu-parent{
     width: 80%;
@@ -484,20 +484,16 @@ i{
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
-.l-us{
-    width: 80px;
-    margin-bottom: 30px;
-    margin-right:85%;
-}
 .p-intro{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: rgb(22, 21, 21);
+    margin-top: 40px;
 }
 .why-reason{
     list-style-type: none; 
 }
 .i-reason{
-    color: #FFD700; 
+    color: #fdf9f4; 
     margin-right: 10px;
 }
 .p-reason{
@@ -527,7 +523,7 @@ border-radius: 10px;
     margin-left: 190px;
 }
 .c2, .c3{
-    background-color: #FFD700;
+    background-color: #fdf9f4;
 }
 .c2:hover, .c3:hover{
     background-color: #8B4513;
