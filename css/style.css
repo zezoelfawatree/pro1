@@ -794,13 +794,13 @@ h3{
     background-size: cover;
 }
 .tm1{
-    background-image: url(/images/Designer\ 16.jpeg);
+    background-image: url(../images/Designer16.jpeg);
 }
 .tm2{
-    background-image: url(/images/Designer\ 17.jpeg.webp);
+    background-image: url(../images/Designer17.webp);
 }
 .tm3{
-    background-image: url(/images/Designer\ 18.jpeg.webp);
+    background-image: url(../images/Designer18.webp);
 }
 .social-icons{
 background-color: #8e6b4a;
@@ -881,13 +881,13 @@ transform: scale(1.02);
     background-size: cover;
 }
 .nimg1{
-    background-image: url(/images/sec33.jpeg);
+    background-image: url(../images/sec33.jpeg);
 }
 .nimg2{
     background-image: url(../images/sec11.webp);
 }
 .nimg3{
-    background-image: url(/images/sec22.jpeg);
+    background-image: url(../images/sec22.jpeg);
 }
 .ns:hover{
     transform: scale(1.01);
