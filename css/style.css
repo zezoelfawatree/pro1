@@ -794,13 +794,13 @@ h3{
     background-size: cover;
 }
 .tm1{
-    background-image: url(../images/Designer\ 16.jpeg);
+    background-image: url(/images/Designer\ 16.jpeg);
 }
 .tm2{
-    background-image: url(../images/Designer\ 17.jpeg.webp);
+    background-image: url(/images/Designer\ 17.jpeg.webp);
 }
 .tm3{
-    background-image: url(../images/Designer\ 18.jpeg.webp);
+    background-image: url(/images/Designer\ 18.jpeg.webp);
 }
 .social-icons{
 background-color: #8e6b4a;
